@@ -11,3 +11,11 @@
 - After learning some basic code of Python I wanted to "create" something depending on what I learned. So I wrote it in 2018 and pack it into an executable program in 2021.
 - This is a very primary and basic programme, however, it represented my love for programming at the time. Recently (2022.2), I learned something about Git, so I decided to put it on Github
 - It is my first program, and I hope you like it.
+
+# Update Diary
+## 2020.2.16
+- Push codes on GitHub firstly.
+
+## 2020.2.17
+- Bug found: the exe program could only seen in Chinses language system. In English lanaguage system the message can't be read. 
+- I thought it should be fixed by editing the words information but I have no time to fix it now. Sorry for that. 
